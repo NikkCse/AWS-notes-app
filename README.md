@@ -1,6 +1,6 @@
 # AWS Notes App
 
-A Google Keep–style notes app built on a real 3-tier AWS architecture — VPC, EC2, and RDS — created as a hands-on learning project to understand how production cloud infrastructure actually works.
+A Google Keep–style notes app built on a real 3-tier AWS architecture - VPC, EC2, and RDS - created as a hands-on learning project to understand how production cloud infrastructure actually works.
 
 ## Architecture
 
